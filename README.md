@@ -1,2 +1,2 @@
-# Springboot-JUnit-Tests-Using-JUnit-and-Mockito
-Springboot-JUnit-Tests-Using-JUnit-and-Mockito
+# spring-boot-mockito
+How to write Unit test case using mockito framework 
